@@ -28,7 +28,7 @@ SQL code is found [here](https://drive.google.com/drive/folders/18AweGytkhEdKRne
   2. Business Questions 
   3. Further exploration of the database (ex.: irregularities)
 
-## Skills Used
+## Skills & Tools
 1. SQL Proficiency
 2. Data Extraction and Data Analysis
 3. Data Visualization
