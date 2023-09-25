@@ -1,4 +1,4 @@
-# Data-Analysis-with-SQL
+# Project 1. Data-Analysis-with-SQL
 ## Task
 To evaluate Magist as a partner for strategic expansion to Brazil based on their database with the help of SQL.
 
