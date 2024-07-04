@@ -3,7 +3,7 @@
 To evaluate Magist as a partner for strategic expansion to Brazil based on their database with the help of SQL.
 
 ## Overview 
-Eniac is exploring an expansion to the Brazilian market with the help of a local third-party SaaS company, called Magist. We get a limited glimpse of Magist's database. 
+Eniac is exploring an expansion to the Brazilian market with the help of a local third-party company, called Magist. We get a limited glimpse of Magist's database. 
 
 ## Context
 Eniac is an **online marketplace** specializing in Apple-compatible accessories. It was **founded ten years ago in Spain** and has since grown and expanded to other neighboring countries.
